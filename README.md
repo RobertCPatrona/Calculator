@@ -1,4 +1,4 @@
-# Simple Calculator app with history
+# React - Simple Calculator app with history
 
 To run the app, use:
 
