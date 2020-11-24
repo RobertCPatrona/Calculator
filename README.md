@@ -1,6 +1,6 @@
 # React - Simple Calculator app with history
 
-To run the app, use:
+* To run the app, use:
 
 `npm install`
 
