@@ -1,6 +1,6 @@
 # React - Simple Calculator App with History
 
-* To run the app, use:
+* To run the app, navigate to the "Calculator" folder and use:
 
 `npm install`
 
