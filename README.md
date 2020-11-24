@@ -1,12 +1,14 @@
 # React - Simple Calculator App with History
 
-* To run the app, use:
+* To run the app, run:
 
 `npm install`
 
 `npm start`
 
-* To stop the app, use `Ctrl+C`
+* To stop the app, use: 
+
+`Ctrl+C`
 
 * In case of errors, run:
 
