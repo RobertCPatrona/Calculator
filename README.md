@@ -15,3 +15,5 @@ The app requires `nodeJS` to be installed.
 * In case of npm errors when starting the app, use:
 
 `npm update`
+
+`npm start`
