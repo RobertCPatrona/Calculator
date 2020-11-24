@@ -12,6 +12,6 @@ The app requires `nodeJS` to be installed.
 
 `Ctrl+C`
 
-* In case of errors, use:
+* In case of npm errors when starting the app, use:
 
 `npm update`
