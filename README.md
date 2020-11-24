@@ -1,6 +1,6 @@
 # React - Simple Calculator App with History
 
-* To run the app, run:
+* To run the app, use:
 
 `npm install`
 
@@ -10,6 +10,6 @@
 
 `Ctrl+C`
 
-* In case of errors, run:
+* In case of errors, use:
 
 `npm update`
